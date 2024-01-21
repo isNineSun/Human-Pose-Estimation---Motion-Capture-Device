@@ -13,9 +13,7 @@
 [立创开源广场项目链接](https://oshwhub.com/isninesun/hpsv204)
 
 ### PCB Layout
-![](https://raw.githubusercontent.com/isNineSun/img_repository/main/%24MJ%7BUE%2403%7DLU1%25THN1PR5%5DH.png)    
-### 3D渲染图
-![](https://raw.githubusercontent.com/isNineSun/img_repository/main/3D.png)    
+![](https://raw.githubusercontent.com/isNineSun/img_repository/main/PCB.jpg)
 
 ## 3.软件设计    
 ### 3.1 设备软件
@@ -28,5 +26,6 @@
 这里放一张动图用来展示实际的效果：    
 ![](https://raw.githubusercontent.com/isNineSun/img_repository/main/test%2000_00_00-00_00_30.gif)
 
-## 5.总结
-这篇主要是实现一个集数验证，显示完成数据采集的工作，具体根据采集的数据解算出来的欧拉角去还原姿态的部分我打算放在上位机去做，这个就要等到Part2再说了。
+## 5.上位机展示
+上位机基于Unity制作，用的是传统的正向动力学，上位机的开源仓库请点击-->[动作捕捉配套上位机](https://github.com/isNineSun/Motion-Capture-Host-Software.git)，后续也有兴趣涉足一下IK，暂时学习用效果如下了。    
+https://github.com/isNineSun/Motion-Capture-Host-Software/assets/42261713/1199a779-35fb-431a-aa1d-3410956c1e9d
