@@ -28,4 +28,4 @@
 
 ## 5.上位机展示
 上位机基于Unity制作，用的是传统的正向动力学，上位机的开源仓库请点击-->[动作捕捉配套上位机](https://github.com/isNineSun/Motion-Capture-Host-Software.git)，后续也有兴趣涉足一下IK，暂时学习用效果如下了。    
-https://github.com/isNineSun/Motion-Capture-Host-Software/assets/42261713/1199a779-35fb-431a-aa1d-3410956c1e9d
+https://github.com/isNineSun/Human-Pose-Estimation---Motion-Capture-Device/assets/42261713/1a74626f-e1af-4e56-bceb-0fe2316b3c24    
